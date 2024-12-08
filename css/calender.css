@@ -1,0 +1,158 @@
+.calender
+{
+    width: 100%;
+    min-height: 600px;
+    position: relative;
+}
+.main-bar h3
+{
+    font-size: 24px;
+    margin-top:20px;
+    padding:20px;
+}
+.main-bar p
+{
+    font-size: 24px;
+    font-weight: 500;
+    padding: 20px;
+}
+.main-bar p a
+{
+    text-decoration: none;
+    color:#397ff9;
+    padding-left: 20px;
+}
+.content
+{
+    position: relative;
+}
+.main-bar button
+{
+    height: 30px;
+    width:100px;
+    background: #397ff9;
+    border-radius: 5px;
+    border: 1px solid azure;
+    padding:5px;
+    position: absolute;
+    bottom: 0;
+    right:10%;
+}
+
+table
+{
+    width: 90%;
+    min-height: 600px;
+
+}
+
+tr{
+    width:90%;
+}
+th{
+    height:30px;
+    border: 1px solid #000;
+    border-top: none;
+    border-right: none;
+    border-bottom:none;
+    background-color: #f8f9fa;
+}
+td{
+    height: 40px;
+    width: 40px;
+    border: 1px solid #000;
+    background-color: azure;
+
+    border-right: none;
+    border-bottom:none;
+}
+table tr .bd-right ,table tr .bd-right 
+{
+    border-left:  none;
+}
+
+.schedule
+{
+    position: absolute;
+    height:150px;
+    width:100px;
+    background: #397ff9;
+    top:15%;
+    left:41%;
+    text-align: center;
+    border-radius: 10px;
+    color:#010101;
+    align-content: center;
+}
+.schedule2
+{
+    position: absolute;
+    height:120px;
+    width:100px;
+    background: #fff7ee;
+    border: 1px solid crimson;
+    top:20%;
+    left:15%;
+    text-align: center;
+    border-radius: 10px;
+    color:#000000;
+    align-content: center;
+}
+.schedule3
+{
+    position: absolute;
+    height:120px;
+    width:100px;
+    background: #fff7ee;
+    border: 1px solid crimson;
+    top:50%;
+    left:27%;
+    text-align: center;
+    border-radius: 10px;
+    color:black;
+    align-content: center;
+}
+.schedule4
+{
+    position: absolute;
+    height:120px;
+    width:100px;
+    background: #f4f8ff;
+    border: 1px solid blue;
+    top:70%;
+    left:15%;
+    text-align: center;
+    border-radius: 10px;
+    color:black;
+    align-content: center;
+}
+
+.schedule5
+{
+    position: absolute;
+    height:120px;
+    width:100px;
+    background: #f4f8ff;
+    border: 1px solid blue;
+    top:70%;
+    left:41%;
+    text-align: center;
+    border-radius: 10px;
+    color:black;
+    align-content: center;
+}
+
+.schedule6
+{
+    position: absolute;
+    height:120px;
+    width:100px;
+    background: #f4f8ff;
+    border: 1px solid blue;
+    top:66%;
+    left:67%;
+    text-align: center;
+    border-radius: 10px;
+    color:black;
+    align-content: center;
+}
